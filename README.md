@@ -34,17 +34,17 @@ php
 Copy code
 job-listing-component/<br>
 ├── public/<br>
-│   ├── index.html <br>     <br>    # Main HTML file
+│   ├── index.html <br>     <br>    
 ├── src/<br>
 │   ├── components/<br>
-│   │   ├── JobCard.js     <br> # Job card component displaying job details
-│   │   ├── JobList.js     <br> # Main component handling the listing, search, and filter
+│   │   ├── JobCard.js     <br> 
+│   │   ├── JobList.js     <br> 
 │   ├── data/<br>
-│   │   ├── jobs.js        <br> # Job data file containing job details in JSON format
-│   ├── App.js            <br>  # Main application component
-│   ├── index.js          <br>  # Entry point for React
-├── README.md             <br>  # Documentation
-└── package.json           <br> # Project dependencies and scripts
+│   │   ├── jobs.js        <br> 
+│   ├── App.js            <br> 
+│   ├── index.js          <br>  
+├── README.md             <br>  
+└── package.json           <br>
 
 
 
