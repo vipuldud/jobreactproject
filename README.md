@@ -32,19 +32,19 @@ The project is structured as follows:
 
 php
 Copy code
-job-listing-component/
-├── public/
-│   ├── index.html          # Main HTML file
-├── src/
-│   ├── components/
-│   │   ├── JobCard.js      # Job card component displaying job details
-│   │   ├── JobList.js      # Main component handling the listing, search, and filter
-│   ├── data/
-│   │   ├── jobs.js         # Job data file containing job details in JSON format
-│   ├── App.js              # Main application component
-│   ├── index.js            # Entry point for React
-├── README.md               # Documentation
-└── package.json            # Project dependencies and scripts
+job-listing-component/<br>
+├── public/<br>
+│   ├── index.html      <br>    # Main HTML file
+├── src/<br>
+│   ├── components/<br>
+│   │   ├── JobCard.js     <br> # Job card component displaying job details
+│   │   ├── JobList.js     <br> # Main component handling the listing, search, and filter
+│   ├── data/<br>
+│   │   ├── jobs.js        <br> # Job data file containing job details in JSON format
+│   ├── App.js            <br>  # Main application component
+│   ├── index.js          <br>  # Entry point for React
+├── README.md             <br>  # Documentation
+└── package.json           <br> # Project dependencies and scripts
 
 
 
