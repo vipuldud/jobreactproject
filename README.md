@@ -34,7 +34,7 @@ php
 Copy code
 job-listing-component/<br>
 ├── public/<br>
-│   ├── index.html      <br>    # Main HTML file
+│   ├── index.html <br>     <br>    # Main HTML file
 ├── src/<br>
 │   ├── components/<br>
 │   │   ├── JobCard.js     <br> # Job card component displaying job details
